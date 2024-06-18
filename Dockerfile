@@ -9,3 +9,5 @@ COPY . .
 
 # Expose port 80 (default for HTTP)
 EXPOSE 80
+
+#docker
