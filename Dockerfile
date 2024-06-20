@@ -11,3 +11,4 @@ COPY . .
 EXPOSE 80
 
 #docker
+#use k8s now 
